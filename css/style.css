@@ -1,0 +1,19 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Paragraph{
+    color: #8A3DD5;
+    font-weight: 600;
+}
+
+.haeding{
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.mycard:hover{background-color:  #F7F4FD;}
+
+.mylink{
+    color: #8A3DD5;
+}
